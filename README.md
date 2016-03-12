@@ -1,6 +1,6 @@
 # Articles
 
-> :link: A list of articles I have ever read.
+> :link: A list of articles I have ever read or want to read.
 
 If you have book recommendations for me, please [create a Pull Request](https://github.com/starandtina/articles/compare) adding a link at the end of [`README`](https://github.com/starandtina/articles/blob/master/README.md).
 
@@ -16,7 +16,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
   
   1. [Career](#career)
   1. [Management](#management)
-  1. [Interview](#interview)
+  1. [Interview/Hiring](#interview-hiring)
   1. [Web Performance](#wpo)
   1. [Languages](#languages)
   1. [User Experience/Interaction Design/Usability](#ux)
@@ -52,8 +52,11 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 - :star2: [21 management things I learned at Imgur](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 - :full_moon: [The Secret to Growing Your Engineering Career If You Don't Want to Manage](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/)
-- :full_moon: [Ten things we believe about hiring](https://triplebyte.com/manifesto)
 - :new_moon: [We need to rethink employee compensation](http://www.aaronkharris.com/we-need-to-rethink-employee-compensation)
+
+## <a name='interview-hiring'>Interview/Hiring</a>
+
+- :full_moon: [Ten things we believe about hiring](https://triplebyte.com/manifesto)
 
 ## <a name='startups-business'>Startups/Businesses</a>
 
