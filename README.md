@@ -56,8 +56,12 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## <a name='interview-hiring'>Interview/Hiring</a>
 
-- :full_moon: [Ten things we believe about hiring](https://triplebyte.com/manifesto)
+- :star2: [Ten things we believe about hiring <sub>The best advices about hiring</sub>](https://triplebyte.com/manifesto)
+- :new_moon: [Interview Guide <sub>Explains best how to prepare for your interviews</sub>](https://triplebyte.com/interview_guide)
+- :star2: [How I Hire Programmers <sub>by Aaron Swartz</sub>](http://www.aaronsw.com/weblog/hiring)
+- :new_moon: [The Guerrilla Guide to Interviewing (version 3.0)](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
+- :new_moon: [The Hiring Post](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 
 ## <a name='startups-business'>Startups/Businesses</a>
 
-- :full_moon: [初创团队如何提高工作效率？](http://jianshu.io/p/e61e458dbfe0)
+- :full_moon: [初创团队如何提高工作效率？<sub>Working effectively within a small team</sub>](http://jianshu.io/p/e61e458dbfe0)
