@@ -39,45 +39,46 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## <a name='career'>Career</a>
 
-- :star2: [The best career advice I’ve received](https://www.nczonline.net/blog/2013/10/15/the-best-career-advice-ive-received/)
-- :full_moon: [How to Become a Great Front-End Engineer](http://philipwalton.com/articles/how-to-become-a-great-front-end-engineer/)
-- :star2: [How to Become a Great JavaScript Developer](http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html)
-- :full_moon: [How to Become a Better Node.js Developer in 2016](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/)
-- :star2: [How to Level up as a Developer](https://medium.freecodecamp.com/how-to-level-up-as-a-developer-87344584777c#.jd6som293)
-- :new_moon: [Leveling Up Your JavaScript](http://developer.telerik.com/featured/leveling-up-your-javascript/)
-- :star2: [The Difference Between Excellent, Good and Bad JavaScript Developers>](http://thefullstack.xyz/excellent-javascript-developer)
-- :full_moon: [为什么整个互联网行业都缺前端工程师？](http://mp.weixin.qq.com/s?__biz=MjM5NTQ5MjIyMA==&mid=220751762&idx=1&sn=c9acabc082c87ca2986ff7f1c05e341c&scene=5#rd)
+- :star2: [The best career advice I’ve received](http://bit.ly/1XtUaTi)
+- :full_moon: [How to Become a Great Front-End Engineer](http://bit.ly/1OZNAAl)
+- :star2: [How to Become a Great JavaScript Developer](http://bit.ly/1ML5yFa)
+- :full_moon: [How to Become a Better Node.js Developer in 2016](http://bit.ly/1VHLyIt)
+- :star2: [How to Level up as a Developer](http://bit.ly/253jyoB)
+- :new_moon: [Leveling Up Your JavaScript](http://bit.ly/1QTLtBG)
+- :star2: [The Difference Between Excellent, Good and Bad JavaScript Developers>](http://bit.ly/22kCXPF)
+- :full_moon: [为什么整个互联网行业都缺前端工程师？](http://bit.ly/1Rk0UF6)
 
 ## <a name='management'>Management</a>
 
-- :star2: [21 management things I learned at Imgur](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
-- :full_moon: [The Secret to Growing Your Engineering Career If You Don't Want to Manage](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/)
-- :new_moon: [We need to rethink employee compensation](http://www.aaronkharris.com/we-need-to-rethink-employee-compensation)
+- :star2: [21 management things I learned at Imgur](http://bit.ly/1GrSBLK)
+- :full_moon: [The Secret to Growing Your Engineering Career If You Don't Want to Manage](http://bit.ly/1otQMNk)
+- :new_moon: [We need to rethink employee compensation](http://bit.ly/1BOLjGd)
+- :full_moon: [7 Tips for Aspiring Managers in Engineering](http://bit.ly/22iPoPr)
 
 ## <a name='interview-hiring'>Interview/Hiring</a>
 
-- :star2: [Ten things we believe about hiring <sub>The best advices about hiring</sub>](https://triplebyte.com/manifesto)
-- :new_moon: [Interview Guide <sub>Explains best how to prepare for your interviews</sub>](https://triplebyte.com/interview_guide)
-- :star2: [How I Hire Programmers <sub>by Aaron Swartz</sub>](http://www.aaronsw.com/weblog/hiring)
-- :new_moon: [The Guerrilla Guide to Interviewing (version 3.0)](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
-- :new_moon: [The Hiring Post](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
-- :new_moon: [How to pass a programming interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
+- :star2: [Ten things we believe about hiring <sub>The best advices about hiring</sub>](http://bit.ly/1XtUxNV)
+- :new_moon: [Interview Guide <sub>Explains best how to prepare for your interviews</sub>](http://bit.ly/1TMJwcn)
+- :star2: [How I Hire Programmers <sub>by Aaron Swartz</sub>](http://bit.ly/1mm1RJh)
+- :new_moon: [The Guerrilla Guide to Interviewing (version 3.0)](http://bit.ly/OXH97X)
+- :new_moon: [The Hiring Post](http://bit.ly/1Mg0xFa)
+- :new_moon: [How to pass a programming interview](http://bit.ly/1pvRLwS)
 
 ## <a name='wpo'>Web Performance</a>
 
-- :star2: [Web Fundamentals - Performance <sub>Best practices from Google</sub>](https://developers.google.com/web/fundamentals/performance/?hl=en)
-- :star2: [Best Practices for Speeding Up Your Web Site <sub>The Exceptional Performance team has identified a number of best practices for making web pages fast. </sub>](https://developer.yahoo.com/performance/rules.html)
-- :waxing_crescent_moon: [Performance Posts from Yahoo <sub>Research conducted by the Exceptional Performance team</sub>](http://yuiblog.com/blog/category/performance)
-- :star2: [Making Netflix.com Faster <sub>Best practices come from Netflix UI Engineering team on WPO</sub>](http://techblog.netflix.com/2015/08/making-netflixcom-faster.html)
-- :full_moon: [Caching Tutorial <sub>for Web Authors and Webmasters</sub>](http://www.mnot.net/cache_docs/)
-- :first_quarter_moon: [How to lost weight <sub>The definitive front-end performance guide</sub>](https://browserdiet.com)
-- :full_moon: [Loading Scripts Without Blocking](http://www.stevesouders.com/blog/2009/04/27/loading-scripts-without-blocking/)
-- :star2: [Response Times: The 3 Important Limits <sub>There are 3 main time limits (which are determined by human perceptual abilities) to keep in mind when optimizing web and application performance.</sub>](https://www.nngroup.com/articles/response-times-3-important-limits/)
+- :star2: [Web Fundamentals - Performance <sub>Best practices from Google</sub>](http://bit.ly/1OHXDfV)
+- :star2: [Best Practices for Speeding Up Your Web Site <sub>The Exceptional Performance team has identified a number of best practices for making web pages fast. </sub>](http://yhoo.it/1jY4LHz)
+- :waxing_crescent_moon: [Performance Posts from Yahoo <sub>Research conducted by the Exceptional Performance team</sub>](http://bit.ly/1UxGJlY)
+- :star2: [Making Netflix.com Faster <sub>Best practices come from Netflix UI Engineering team on WPO</sub>](http://nflx.it/1MPIatu)
+- :full_moon: [Caching Tutorial <sub>for Web Authors and Webmasters</sub>](http://bit.ly/PTKHYN)
+- :first_quarter_moon: [How to lost weight <sub>The definitive front-end performance guide</sub>](http://bit.ly/1VaX3tN)
+- :full_moon: [Loading Scripts Without Blocking](http://bit.ly/1SRttsH)
+- :star2: [Response Times: The 3 Important Limits <sub>There are 3 main time limits (which are determined by human perceptual abilities) to keep in mind when optimizing web and application performance.</sub>](http://bit.ly/1ToW0VD)
 
 ## <a name='#development-philosohpy'>Development Philosophy</a>
 
-- :new_moon: [How We Build Code at Netflix <sub>Introducing the tools and techniques used to go from source code to a deployed service serving movies and TV shows to more than 75 million global Netflix members.</sub>](http://techblog.netflix.com/2016/03/how-we-build-code-at-netflix.html)
+- :new_moon: [How We Build Code at Netflix <sub>Introducing the tools and techniques used to go from source code to a deployed service serving movies and TV shows to more than 75 million global Netflix members.</sub>](http://nflx.it/1pxlTYL)
 
 ## <a name='startups-business'>Startups/Businesses</a>
 
-- :full_moon: [初创团队如何提高工作效率？<sub>Working effectively within a small team</sub>](http://jianshu.io/p/e61e458dbfe0)
+- :full_moon: [初创团队如何提高工作效率？<sub>Working effectively within a small team</sub>](http://bit.ly/1UeLD8A)
