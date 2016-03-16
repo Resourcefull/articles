@@ -22,7 +22,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
   1. [User Experience/Interaction Design/Usability](#ux)
   1. [Product Design](#product-design)
   1. [Art/Design](#art-design)
-  1. [Internals](#internals)
+  1. [Building/Depolying](#building-deploying)
   1. [Development Philosophy](#development-philosohpy)
   1. [Algorithms](#algos)
   1. [AI](#ai)
@@ -74,6 +74,10 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :first_quarter_moon: [How to lost weight <sub>The definitive front-end performance guide</sub>](http://bit.ly/1VaX3tN)
 - :full_moon: [Loading Scripts Without Blocking](http://bit.ly/1SRttsH)
 - :star2: [Response Times: The 3 Important Limits <sub>There are 3 main time limits (which are determined by human perceptual abilities) to keep in mind when optimizing web and application performance.</sub>](http://bit.ly/1ToW0VD)
+
+## <a name='building-deploying'>Building/Depolying</a>
+
+- :waxing_crescent_moon: [HOW TO DEPLOY SOFTWARE <sub>Make your team’s deploys as boring as hell and stop stressing about it.</sub>](http://bit.ly/1L7jLRc)
 
 ## <a name='#development-philosohpy'>Development Philosophy</a>
 
