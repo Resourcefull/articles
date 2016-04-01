@@ -47,6 +47,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [Leveling Up Your JavaScript](http://bit.ly/1QTLtBG)
 - :star2: [The Difference Between Excellent, Good and Bad JavaScript Developers>](http://bit.ly/22kCXPF)
 - :full_moon: [为什么整个互联网行业都缺前端工程师？](http://bit.ly/1Rk0UF6)
+- :full_moon: [caoz谈能力成长系列 - 机会来自于担当 <sub>机会总是来自于“让我来”，“我可以”</sub>](http://dwz.cn/318Ua9)
 
 ## <a name='management'>Management</a>
 
